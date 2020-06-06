@@ -1,1 +1,1 @@
-web: python bank.py
+web: gunicorn bank.py
